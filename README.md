@@ -1,5 +1,5 @@
 
-library installation
+Library Installation
 ------------
 
 $ pip install translate
